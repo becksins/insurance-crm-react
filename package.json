@@ -1,7 +1,7 @@
 {
   "name": "insurancecrm",
   "version": "0.1.0",
-  "homepage": "http://pw85.pl/insurancecrm/",
+  "homepage": "http://localhost:8778",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.5",
